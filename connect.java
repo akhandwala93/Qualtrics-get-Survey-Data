@@ -94,7 +94,7 @@ public class connect {
     String currentFile = "GlobalITPToday.csv";
     String serverStr = "./";
     String fileFormat = "./test_%s.csv";
-    String pwd = "PT:&Token=0H2te1Vv1SoOHWgByfuGCf1FXtkdacl9PAFpWznf&Format=CSV";
+    String pwd = "PT:&Token=#############";
     
     //link from Qualtrics API to get form data 
     String urlStr = "https://stonybrook.co1.qualtrics.com/WRAPI/ControlPanel/api.php?Request=getLegacyResponseData&User=Qualtrics%23stonybrookuniversity$pwd$&Version=2.0&SurveyID=SV_9Ytfvazp1YmG2SV&Labels=1";
