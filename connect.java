@@ -97,7 +97,7 @@ public class connect {
     String pwd = "PT:&Token=#############";
     
     //link from Qualtrics API to get form data 
-    String urlStr = "https://stonybrook.co1.qualtrics.com/WRAPI/ControlPanel/api.php?Request=getLegacyResponseData&User=Qualtrics%23stonybrookuniversity$pwd$&Version=2.0&SurveyID=SV_9Ytfvazp1YmG2SV&Labels=1";
+    String urlStr = "https://stonybrook.co1.qualtrics.com/WRAPI/ControlPanel/api.php?Request=getLegacyResponseData&User=Qualtrics%23stonybrookuniversity$pwd$&Format=CSV&Version=2.0&SurveyID=SV_9Ytfvazp1YmG2SV&Labels=1";
     
     
     Properties prop = new Properties();
